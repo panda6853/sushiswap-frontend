@@ -8,7 +8,7 @@ const Nav: React.FC = () => {
         target="_blank"
         href="https://etherscan.io/address/0xc2edad668740f1aa35e4d8f227fb8e17dca888cd#code"
       >
-        MasterChef Contract
+        SquidChef Contract
       </StyledLink>
       <StyledLink
         target="_blank"
@@ -16,13 +16,13 @@ const Nav: React.FC = () => {
       >
         Uniswap SQUID-ETH
       </StyledLink>
-      <StyledLink target="_blank" href="https://discord.gg/hJ2p555">
+      <StyledLink target="_blank" href="https://discord.gg/vRwbD6W">
         Discord
       </StyledLink>
-      <StyledLink target="_blank" href="https://github.com/sushiswap">
+      <StyledLink target="_blank" href="https://github.com/squidswaporg">
         Github
       </StyledLink>
-      <StyledLink target="_blank" href="https://twitter.com/sushiswap">
+      <StyledLink target="_blank" href="https://twitter.com/squidswaporg">
         Twitter
       </StyledLink>
     </StyledNav>
