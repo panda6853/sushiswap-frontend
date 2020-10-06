@@ -79,7 +79,7 @@ export const supportedPools = [
     },
     name: 'Squid Party!',
     symbol: 'SQUID-ETH UNI-V2 LP',
-    tokenSymbol: 'SUSHI',
+    tokenSymbol: 'SQUID',
     icon: '🦑',
   },
   {
