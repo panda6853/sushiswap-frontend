@@ -207,16 +207,16 @@
   },
   {
     "inputs": [],
-    "name": "sushi",
+    "name": "squid",
     "outputs": [
-      { "internalType": "contract SushiToken", "name": "", "type": "address" }
+      { "internalType": "contract SquidToken", "name": "", "type": "address" }
     ],
     "stateMutability": "view",
     "type": "function"
   },
   {
     "inputs": [],
-    "name": "sushiPerBlock",
+    "name": "squidPerBlock",
     "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
     "stateMutability": "view",
     "type": "function"
