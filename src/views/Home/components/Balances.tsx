@@ -16,7 +16,7 @@ import useSushi from '../../../hooks/useSushi'
 import { getSushiAddress, getSushiSupply } from '../../../sushi/utils'
 import { getBalanceNumber } from '../../../utils/formatBalance'
 
-import Img_Squid from '../../../assets/img/squid.png'
+import Img_Squid from '../../../assets/img/squid1.png'
 
 const PendingRewards: React.FC = () => {
   const [start, setStart] = useState(0)
